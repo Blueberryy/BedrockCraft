@@ -1,0 +1,21 @@
+item.bedrockcraft.BedrockIngot.name=Bedrock Ingot
+item.bedrockcraft.BedrockPickaxe.name=Bedrock Pickaxe
+item.bedrockcraft.BedrockAxe.name=Bedrock Axe
+item.bedrockcraft.BedrockShovel.name=Bedrock Shovel
+item.bedrockcraft.BedrockHoe.name=Bedrock Hoe
+item.bedrockcraft.BedrockSword.name=Bedrock Sword
+item.bedrockcraft.BedrockArmor.feet.name=Bedrock Boots
+item.bedrockcraft.BedrockArmor.legs.name=Bedrock Leggings
+item.bedrockcraft.BedrockArmor.chest.name=Bedrock Chestplate
+item.bedrockcraft.BedrockArmor.head.name=Bedrock Helmet
+item.bedrockcraft.ObsidianIngot.name=Obsidian Ingot
+item.bedrockcraft.ObsidianPickaxe.name=Obsidian Pickaxe
+item.bedrockcraft.ObsidianAxe.name=Obsidian Axe
+item.bedrockcraft.ObsidianShovel.name=Obsidian Shovel
+item.bedrockcraft.ObsidianHoe.name=Obsidian Hoe
+item.bedrockcraft.ObsidianSword.name=Obsidian Sword
+
+tile.bedrockcraft.Compressor.name=Compressor
+
+itemGroup.bedrockcraft=BedrockCraft
+itemGroup.bedrockcraftTool=BedrockCraft Equipment
